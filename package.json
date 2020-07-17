@@ -1,5 +1,5 @@
 {
-  "name": "btc-tracker",
+  "name": "trading-view-btcusd",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
